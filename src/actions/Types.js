@@ -1,0 +1,5 @@
+
+
+export const GET_REST_ATTEMPING = 'GET_REST_ATTEMPING';
+export const GET_REST_SUCCESS = 'GET_REST_SUCCESS';
+export const GET_REST_FAILED = 'GET_REST_FAILED';
